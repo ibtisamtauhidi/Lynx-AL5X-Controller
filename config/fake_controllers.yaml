@@ -1,0 +1,7 @@
+controller_list:
+  - name: fake_lynx_controller
+    joints:
+      - servo1
+      - servo2
+      - servo3
+      - servo4
